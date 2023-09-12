@@ -38,4 +38,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-.dbConnection
+src/main/java/org/example/dbConnection
+src/main/resources/config.properties
